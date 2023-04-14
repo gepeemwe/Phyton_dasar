@@ -6,8 +6,8 @@ print ("Identitas Pelanggan \n Nama yang berbaju merah\'s adalah Yanti " )
 
 print(
     '''
-    Ini adalah sebuat text yang memanfaatkan escape caracter
-    membuat text berbentuk paragraf 
+Ini adalah sebuat text yang memanfaatkan escape caracter
+membuat text berbentuk paragraf 
     mari kita coba !!!
     '''
 )
