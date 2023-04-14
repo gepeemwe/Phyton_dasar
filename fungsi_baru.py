@@ -11,4 +11,10 @@ def hitungtarif (tarif):
     print ("Tarif masuk anda adalah sebesar:", jumlahbayar)
 
 greeting ()
-hitungtarif(4000)
+hitungtarif(350)
+
+#peggunaan "while" untuk melakukan loopin
+a = 0
+while a < 15:
+    a = a + 1
+    print(a)
