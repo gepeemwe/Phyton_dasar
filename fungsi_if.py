@@ -1,9 +1,8 @@
-#Perulangan dengan menggunakan "for"
-for i in range(1, 20):
-    print(i)
-
-#Perulangan menggunakan "while"
-a = 0 
-while a < 10:
-    a = a +1
-    print (a)
+#contoh penggunaan fungsi if
+usia = int(input("masukkan usia kamuu :"))
+if usia <= 14 :
+    print("Kamu masih anak-ana")
+elif usia > 15 and usia <= 40:
+    print("Kamu sudah Dewasa")
+else:
+    print("Kamu sudah tua ")
